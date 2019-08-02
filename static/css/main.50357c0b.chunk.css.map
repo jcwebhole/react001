@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,OACI,WAAY,CACZ,UAAW,CACX,UACJ,CACA,yBACI,UACJ,CAEA,UACI,WACJ","file":"main.50357c0b.chunk.css","sourcesContent":["button{\r\n    height: 30px;\r\n    width: 30px;\r\n    float: left;\r\n}\r\n.game-info, .board-row, li{\r\n    clear: both;\r\n}\r\n\r\nli button{\r\n    width: 200px;\r\n}\r\n\r\n"]}
